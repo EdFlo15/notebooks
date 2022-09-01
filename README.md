@@ -1,2 +1,2 @@
 # Machine Learning
-Notebooks about machine learning with Pythin using differents dataset
+Notebooks about machine learning with Python using differents dataset
