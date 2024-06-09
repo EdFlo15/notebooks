@@ -1,0 +1,99 @@
+# Ignore Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+env/
+venv/
+ENV/
+VENV/
+
+# Ignore Jupyter Notebook configuration
+.jupyter/
+
+# Ignore Jupyter Notebook hidden folder
+.jupyter/
+
+# Ignore Python specific files
+*.pyd
+*.so
+*.dylib
+
+# Ignore distribution and packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Ignore PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Ignore coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Ignore mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ignore C extensions
+*.c
+*.so
+
+# Ignore pytest
+.pytest_cache/
+
+# Ignore Jupyter Notebook metadata
+**/.ipynb_checkpoints
+
+# Ignore Jupyter Notebook output
+*.ipynb~orig
+
+# Ignore test logs
+test_*.log
+
+# Ignore IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore environment files
+.env
+.env.local
+*.env
+*.env.*
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.log
