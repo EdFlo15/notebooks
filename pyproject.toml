@@ -1,0 +1,10 @@
+[project]
+name = "notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+]
